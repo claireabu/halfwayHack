@@ -7,4 +7,12 @@ http://wikitravel.org/en/Thailand
 David - Budget/Logisitcs 
 Matt - Regions/Cities 
 Lucy - Food 
-Claire - History/Understand 
+Claire - History/Background
+
+Background
+History 
+Culture 
+Politics
+
+
+
